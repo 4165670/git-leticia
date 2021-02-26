@@ -6,8 +6,6 @@ public class Holamundo {
 		System.out.print("Hola Mundo");
 		
 		System.out.print("Mi nombre es Leticia");
-		
-		System.out.print("Y vivo en Calasparra");
 	}
 
 }
