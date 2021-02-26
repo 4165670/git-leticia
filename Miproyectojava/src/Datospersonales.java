@@ -7,6 +7,9 @@ public class Datospersonales {
 				System.out.print("Mi telefono es:");
 				
 				System.out.print("690295089");
+				
+				
+				System.out.print("Y tengo 27 años");
 		
 	}
 
