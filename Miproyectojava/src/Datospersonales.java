@@ -10,6 +10,8 @@ public class Datospersonales {
 				
 				
 				System.out.print("Y tengo 27 años");
+				
+				System.out.print("Y vivo en la calle de la piruleta");
 		
 	}
 
